@@ -99,7 +99,7 @@ void main ()
             return;
         }
         fflush (stdin);
-        printf ("Ban co muon tiep tuc(Chon 0 or 1)?\n");
+        printf ("Ban co muon tiep tuc(Chon 0 hoac 1)?\n");
         scanf    ("%d", &option);
     }
 }
